@@ -1,7 +1,6 @@
 # Synthesizer & Sequencer
     Authors: Minh Le, Elijah Beard
-![Youtube Video Link](https://elidigitalworld.xyz/files/youtube_4g0i1PBkdRs_854x480_h264.mp4)
-
+[![youtube link](https://img.youtube.com/vi/4g0i1PBkdRs/0.jpg)](https://www.youtube.com/watch?v=4g0i1PBkdRs)
 ## Background
 
 This repo contains the schematics and arduino files for our Sequencer Synthesizer. This project was made for Ohio University's 2024 Hackathon called BlossomHack, and won [Best Hardware](https://devpost.com/software/step-sequencer-synthesizer).
@@ -14,8 +13,7 @@ The synthesizer is broken up into two separate systems. The sequencer (Blue ELEG
 
 Simple arduino design that aims to mimic a 4-step beat sequencer. Each LED represents a quarter note. There are buttons that corresponds to each LED allowing you to turn the LEDs off and on. Different rhythm patterns can be created by toggling on and off the 4 different LEDs.
 
-![Sequencer Diagram](https://github.com/user-attachments/assets/f427b0f4-563f-4c4d-ae89-03147c2e80db)
-
+![Uploading Exquisite Albar.png…]()
 
 ## Synth Engine
 
