@@ -10,7 +10,9 @@ The synthesizer is broken up into two separate systems. The sequencer (Blue ELEG
 
 ## Sequencer
 
-//
+Simple arduino design that aims to mimic a 4-step beat sequencer. Each LED represents a quarter note. There are buttons that corresponds to each LED allowing you to turn the LEDs off and on. Different rhythm patterns can be created by toggling on and off the 4 different LEDs.
+
+
 
 ## Synth Engine
 
