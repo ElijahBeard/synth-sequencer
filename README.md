@@ -3,8 +3,9 @@
 [![Youtube Video Link](https://img.youtube.com/vi/4g0i1PBkdRs/0.jpg)](https://www.youtube.com/watch?v=4g0i1PBkdRs)
 ## Background
 
+This repo contains the schematics and arduino files for our Sequencer Synthesizer. This project was made for Ohio University's 2024 Hackathon called BlossomHack, and won [Best Hardware](https://devpost.com/software/step-sequencer-synthesizer).
 
-This repo contains the schematics and arduino files for our Sequencer Synthesizer. This project was made for the Ohio Universities 2024 Hackathon, and won [best hardware](https://devpost.com/software/step-sequencer-synthesizer).
+This was our first time getting into hardware. We had rudimentary knowledge about circuits but had no prior knowledge about arduinos. We have always wanted to experiment and see how hardware and software interact with each other and decided that BlossomHack would be the perfect setting.
 
 The synthesizer is broken up into two separate systems. The sequencer (Blue ELEGOO UNO), and the synth engine (Black ELEGOO UNO). These two systems are connected together by 4 lines of each micro-controllers digital pins. 
 
