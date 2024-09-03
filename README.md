@@ -1,6 +1,9 @@
 # Synthesizer & Sequencer
     Authors: Minh Le, Elijah Beard
+
+## YouTube Video
 [![youtube link](https://img.youtube.com/vi/4g0i1PBkdRs/0.jpg)](https://www.youtube.com/watch?v=4g0i1PBkdRs)
+
 ## Background
 
 This repo contains the schematics and arduino files for our Sequencer Synthesizer. This project was made for Ohio University's 2024 Hackathon called BlossomHack, and won [Best Hardware](https://devpost.com/software/step-sequencer-synthesizer).
